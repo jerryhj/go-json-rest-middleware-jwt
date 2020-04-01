@@ -2,7 +2,7 @@
 package jwt
 
 import (
-	"github.com/ant0ine/go-json-rest/rest"
+	"github.com/jerryhj/go-json-rest/rest"
 	"github.com/dgrijalva/jwt-go"
 
 	"errors"
